@@ -1,7 +1,7 @@
 {
-  "name": "سورس الجوكر",
+  "name": "سورس الخليفه ",
   "description": "اللهم صلِ على محمد وآل محمد",
-  "logo": "https://telegra.ph/file/83ee584aef1c4db1d9597.jpg",
+  "logo": "https://telegra.ph/file/c2de1210c18c16541601f.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -32,7 +32,7 @@
       "value": "."
     },
     "STRING_SESSION": {
-      "description": "هنا ضع كود سيشن تيليثون كود تيرمكس الخاص بك",
+      "description": "هنا خلي كود تيرمكس ",
       "value": ""
     },
     "TG_BOT_USERNAME": {
